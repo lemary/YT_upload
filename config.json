@@ -1,0 +1,7 @@
+{
+  "columns" : ["Название Yt", "Описание Yt", "Статус монтажа", "Монтажер", "Дата", "Пара", "Ссылка на готовую запись", "Плейлист", "lecture_id", "privacyStatus"],
+  "playlist_prefix" : "https://www.youtube.com/playlist?list=",
+  "table_link" : "1JEGvpQn3fx2Cq-GFQ_IShytbCFHX6QY1cXXA1RNsvh4",
+  "service_file_path" : "secret/service_file.json",
+  "default_picuture_path": "Screenshot 2021-03-02 at 14.07.43.png"
+}
